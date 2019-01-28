@@ -7,3 +7,7 @@ plugins and themes
 menus and sidebar 
 
 header
+
+footerpage
+admin page
+contact page 
