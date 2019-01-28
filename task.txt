@@ -1,0 +1,7 @@
+welcome here 
+
+learn some git and implement it
+
+wordpress admin panel 
+plugins and themes 
+menus and sidebar 
