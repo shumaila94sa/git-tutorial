@@ -1,0 +1,10 @@
+Hello Shumaila !
+This is nice learning with you the git 
+This is my sample file 
+in this case ,we just suppose you are working on a project and I want to get in your exisiting project as new member/ contributor 
+I send you the pull request , i want  you to accept my request to ensure if we are our learning is in right direction.
+
+Thanks 
+
+Regards 
+Qasim Chaudhary
